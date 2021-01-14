@@ -31,7 +31,7 @@
             <section id="container-footer">Apply for adoption&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></section>
         </div>
     </main>
-    <footer>Designed and Developed by &copy; 2020<a href="https://twitter.com/DevErnie_" target="_blank">
-    Obumma Ernest.</a></footer>
+    <footer>Designed and Developed by &copy; 2020<a " target="_blank">
+     
 </body>
 </html>
